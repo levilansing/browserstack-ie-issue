@@ -1,0 +1,15 @@
+{
+  "name": "browserstack-ie-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "browserstack-runner"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserstack-runner": "^0.7.0"
+  }
+}
